@@ -1,0 +1,16 @@
+.acme-navbar-text{
+  color: white;
+}
+
+.navbar-inverse {
+  background: #ff7500;
+
+  .navbar-brand .active {
+    a { color: #ffffff !important; }
+  }
+  .navbar-brand { color: #337ab7;  }
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #337ab7 !important;
+}
